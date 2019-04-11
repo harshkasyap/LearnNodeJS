@@ -1,0 +1,23 @@
+{
+  "name": "NodejsConsoleApp",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "Dev",
+    "email": "harshkasyap@gmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "mongodb": "2.2.33",
+    "vash": "^0.12.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-cli": "^1.3.2",
+    "grunt-nodemon": "^0.4.2",
+    "nodemon": "^1.18.11"
+  }
+}
